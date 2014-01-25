@@ -3,8 +3,6 @@ weighted_random
 
 A simple library for returning a weighted random choice from a list:
 
-Usage:
-
 ```python
 from weighted_random import weighted_choice
 
